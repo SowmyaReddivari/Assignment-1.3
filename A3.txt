@@ -1,0 +1,57 @@
+Linux Commands:
+ 
+1.pwd (Print Working Directory):
+     - It displays the name of the current working directory.
+       Eg:pwd
+
+2.vi:
+     - vi command is used to start visual mode for editing a file.
+       Eg:vi r1
+3.touch:
+     - It creates an empty file with a given name.
+       Eg:touch r1
+
+4.mkdir(Make Directory):
+     - mkdir is used for creating a directory.
+       Eg:mkdir mydir
+
+5. rm(Remove):
+     - rm command is used to remove all the files in the directory.
+       Eg:rm r1
+
+6.ls(List):
+     - ls command is used to list the all files in the directory.
+       Eg: ls
+7.echo:
+     -It prints on the screen or file.
+       Eg: echo Welcome to acadgild
+8.cat:
+     - cat command is used to view,create,concat many files at a time.
+       Eg: cat r2
+9.who:
+     - who command is used to display the user name who was logged on to the system.
+       Eg: who
+
+10.cd(Change Directory):
+     - cd is used to change the directory.
+       Eg cd r3
+
+11.date:
+     - date command is used to display current date and time.
+       Eg: date
+       
+12.cal(Calendar):
+     - cal command is used to display the current month calendar.
+       Eg: cal -1
+
+13.mv(Move):
+     - mv command is used to move files from one directory to other directory.
+       Eg: r2 r3
+
+14.cp(Copy):
+     - cp command is used to copy files from one directory to another directory.
+       Eg: r2 r4
+
+15.which:
+     - which command is used to display the path for given files.  
+       Eg: which sh           
