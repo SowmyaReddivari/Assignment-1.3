@@ -46,11 +46,11 @@ Linux Commands:
 
 13.mv(Move):
      - mv command is used to move files from one directory to other directory.
-       Eg: r2 r3
+       Eg: mv r2 r3
 
 14.cp(Copy):
      - cp command is used to copy files from one directory to another directory.
-       Eg: r2 r4
+       Eg: cp r2 r4
 
 15.which:
      - which command is used to display the path for given files.  
